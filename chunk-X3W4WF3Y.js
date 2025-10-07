@@ -1,0 +1,1 @@
+import{J as t,h as r}from"./chunk-JUX2TMYD.js";var o=class e{closeDrawerSubject=new r;closeDrawer$=this.closeDrawerSubject.asObservable();constructor(){}closeDrawer(){this.closeDrawerSubject.next()}static \u0275fac=function(c){return new(c||e)};static \u0275prov=t({token:e,factory:e.\u0275fac,providedIn:"root"})};export{o as a};

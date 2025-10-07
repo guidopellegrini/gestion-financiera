@@ -1,0 +1,108 @@
+{
+  "categorias": [
+    {
+      "id": "cat-supermercados-almacenes",
+      "nombre": "Supermercados / Almacenes",
+      "tipo": "gasto",
+      "color": "#16a34a",
+      "icono": "shopping_cart",
+      "activa": true
+    },
+    {
+      "id": "cat-ropa-calzado-accesorios",
+      "nombre": "Ropa / Calzado / Accesorios",
+      "tipo": "gasto",
+      "color": "#e91e63",
+      "icono": "checkroom",
+      "activa": true
+    },
+    {
+      "id": "cat-electrodomesticos-tecnologia",
+      "nombre": "Electrodomésticos / Tecnología",
+      "tipo": "gasto",
+      "color": "#2196f3",
+      "icono": "devices",
+      "activa": true
+    },
+    {
+      "id": "cat-farmacia-perfumeria-cosmetica",
+      "nombre": "Farmacia / Perfumería / Cosmética",
+      "tipo": "gasto",
+      "color": "#4caf50",
+      "icono": "local_pharmacy",
+      "activa": true
+    },
+    {
+      "id": "cat-restaurantes-comida-delivery",
+      "nombre": "Restaurantes / Comida rápida / Delivery",
+      "tipo": "gasto",
+      "color": "#ff9800",
+      "icono": "restaurant",
+      "activa": true
+    },
+    {
+      "id": "cat-cafeterias",
+      "nombre": "Cafeterías",
+      "tipo": "gasto",
+      "color": "#795548",
+      "icono": "local_cafe",
+      "activa": true
+    },
+    {
+      "id": "cat-servicios-basicos",
+      "nombre": "Servicios básicos",
+      "tipo": "gasto",
+      "color": "#607d8b",
+      "icono": "electrical_services",
+      "activa": true
+    },
+    {
+      "id": "cat-servicios-digitales-suscripciones",
+      "nombre": "Servicios digitales / Suscripciones",
+      "tipo": "gasto",
+      "color": "#9c27b0",
+      "icono": "subscriptions",
+      "activa": true
+    },
+    {
+      "id": "cat-muebles-hogar",
+      "nombre": "Muebles / Hogar",
+      "tipo": "gasto",
+      "color": "#ff5722",
+      "icono": "home",
+      "activa": true
+    },
+    {
+      "id": "cat-transporte-otros-comercios",
+      "nombre": "Transporte / Otros comercios",
+      "tipo": "gasto",
+      "color": "#f44336",
+      "icono": "directions_car",
+      "activa": true
+    },
+    {
+      "id": "cat-entretenimiento-ocio",
+      "nombre": "Entretenimiento / Ocio",
+      "tipo": "gasto",
+      "color": "#673ab7",
+      "icono": "movie",
+      "activa": true
+    },
+    {
+      "id": "cat-debitos-automaticos",
+      "nombre": "Débitos automáticos",
+      "tipo": "gasto",
+      "color": "#3f51b5",
+      "icono": "account_balance",
+      "activa": true
+    },
+    {
+      "id": "cat-mantenimientos-tarjeta-credito",
+      "nombre": "Mantenimientos tarjeta crédito",
+      "tipo": "gasto",
+      "color": "#ff6b35",
+      "icono": "credit_card_gear",
+      "activa": true
+    }
+  ]
+}

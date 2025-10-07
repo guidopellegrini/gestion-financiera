@@ -1,0 +1,83 @@
+{
+  "ingresos": [
+    {
+      "id": "ingreso-aguinaldo-guido-nov-2024",
+      "fuente": "AGUINALDO GUIDO",
+      "descripcion": "Aguinaldo Guido Noviembre 2024",
+      "montoInicial": 200000,
+      "fechaInicio": "2024-11",
+      "frecuencia": "UNICA",
+      "duracionMeses": 1,
+      "fechaFin": "2024-11",
+      "activo": true
+    },
+    {
+      "id": "ingreso-aguinaldo-guido-ene-2025",
+      "fuente": "AGUINALDO GUIDO",
+      "descripcion": "Aguinaldo Guido Enero 2025",
+      "montoInicial": 1200000,
+      "fechaInicio": "2025-01",
+      "frecuencia": "UNICA",
+      "duracionMeses": 1,
+      "fechaFin": "2025-01",
+      "activo": true
+    },
+    {
+      "id": "ingreso-sueldo-guido-nov-2024",
+      "fuente": "SUELDO GUIDO",
+      "descripcion": "Sueldo Guido Noviembre 2024",
+      "montoInicial": 2786000,
+      "fechaInicio": "2024-11",
+      "frecuencia": "UNICA",
+      "duracionMeses": 1,
+      "fechaFin": "2024-11",
+      "activo": true
+    },
+    {
+      "id": "ingreso-sueldo-guido-dic-2024",
+      "fuente": "SUELDO GUIDO",
+      "descripcion": "Sueldo Guido desde Diciembre 2024",
+      "montoInicial": 3000000,
+      "fechaInicio": "2024-12",
+      "frecuencia": "MENSUAL",
+      "duracionMeses": 6,
+      "fechaFin": "2025-04",
+      "proyeccionAumento": 0,
+      "periodicidadAumento": null,
+      "activo": true
+    },
+    {
+      "id": "ingreso-sueldo-guido-may-2025",
+      "fuente": "SUELDO GUIDO",
+      "descripcion": "Sueldo Guido desde Mayo 2025 (aumento)",
+      "montoInicial": 3200000,
+      "fechaInicio": "2025-05",
+      "frecuencia": "MENSUAL",
+      "proyeccionAumento": 0,
+      "periodicidadAumento": null,
+      "activo": true
+    },
+    {
+      "id": "ingreso-mp-nov-2024",
+      "fuente": "MP",
+      "descripcion": "Ingreso Mercado Pago Noviembre 2024",
+      "montoInicial": 13000,
+      "fechaInicio": "2024-11",
+      "frecuencia": "UNICA",
+      "duracionMeses": 1,
+      "fechaFin": "2024-11",
+      "activo": true
+    },
+    {
+      "id": "ingreso-miguel-nov-2024",
+      "fuente": "MIGUEL",
+      "descripcion": "Ingreso Miguel desde Noviembre 2024",
+      "montoInicial": 40000,
+      "fechaInicio": "2024-11",
+      "frecuencia": "MENSUAL",
+      "proyeccionAumento": 0,
+      "periodicidadAumento": null,
+      "activo": true
+    }
+  ]
+}

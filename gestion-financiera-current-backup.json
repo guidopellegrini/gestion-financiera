@@ -1,0 +1,198 @@
+{
+  "categorias": [
+    {
+      "id": "cat-supermercados-almacenes",
+      "nombre": "Supermercados / Almacenes",
+      "tipo": "gasto",
+      "color": "#16a34a",
+      "icono": "shopping_cart",
+      "activa": true
+    },
+    {
+      "id": "cat-ropa-calzado-accesorios",
+      "nombre": "Ropa / Calzado / Accesorios",
+      "tipo": "gasto",
+      "color": "#e91e63",
+      "icono": "checkroom",
+      "activa": true
+    },
+    {
+      "id": "cat-electrodomesticos-tecnologia",
+      "nombre": "Electrodomésticos / Tecnología",
+      "tipo": "gasto",
+      "color": "#2196f3",
+      "icono": "devices",
+      "activa": true
+    },
+    {
+      "id": "cat-farmacia-perfumeria-cosmetica",
+      "nombre": "Farmacia / Perfumería / Cosmética",
+      "tipo": "gasto",
+      "color": "#4caf50",
+      "icono": "local_pharmacy",
+      "activa": true
+    },
+    {
+      "id": "cat-restaurantes-comida-delivery",
+      "nombre": "Restaurantes / Comida rápida / Delivery",
+      "tipo": "gasto",
+      "color": "#ff9800",
+      "icono": "restaurant",
+      "activa": true
+    },
+    {
+      "id": "cat-cafeterias",
+      "nombre": "Cafeterías",
+      "tipo": "gasto",
+      "color": "#795548",
+      "icono": "local_cafe",
+      "activa": true
+    },
+    {
+      "id": "cat-servicios-basicos",
+      "nombre": "Servicios básicos",
+      "tipo": "gasto",
+      "color": "#607d8b",
+      "icono": "electrical_services",
+      "activa": true
+    },
+    {
+      "id": "cat-servicios-digitales-suscripciones",
+      "nombre": "Servicios digitales / Suscripciones",
+      "tipo": "gasto",
+      "color": "#9c27b0",
+      "icono": "subscriptions",
+      "activa": true
+    },
+    {
+      "id": "cat-muebles-hogar",
+      "nombre": "Muebles / Hogar",
+      "tipo": "gasto",
+      "color": "#ff5722",
+      "icono": "home",
+      "activa": true
+    },
+    {
+      "id": "cat-transporte-otros-comercios",
+      "nombre": "Transporte / Otros comercios",
+      "tipo": "gasto",
+      "color": "#f44336",
+      "icono": "directions_car",
+      "activa": true
+    },
+    {
+      "id": "cat-entretenimiento-ocio",
+      "nombre": "Entretenimiento / Ocio",
+      "tipo": "gasto",
+      "color": "#673ab7",
+      "icono": "movie",
+      "activa": true
+    },
+    {
+      "id": "cat-debitos-automaticos",
+      "nombre": "Débitos automáticos",
+      "tipo": "gasto",
+      "color": "#3f51b5",
+      "icono": "account_balance",
+      "activa": true
+    }
+  ],
+  "ingresos": [],
+  "gastos": [],
+  "gastosRecurrentes": [
+    {
+      "id": "gasto_1759698564729_13wdnssk9",
+      "categoriaId": "cat-supermercados-almacenes",
+      "descripcion": "CARREFOUR",
+      "monto": 16598.01,
+      "montoTotal": 49794.03,
+      "fechaInicio": "2025-10",
+      "activo": true,
+      "esRecurrente": true,
+      "tipoRecurrencia": "MENSUAL",
+      "cuotasTotales": 3,
+      "cuotasRestantes": 1,
+      "esDebitoAutomatico": false,
+      "idTarjeta": "tarjeta-bna-visa",
+      "cuotaActual": 1,
+      "montoCuota": 16598.01,
+      "esUnico": false,
+      "esGastoFijo": false,
+      "periodicidadAumento": "ANUAL"
+    },
+    {
+      "id": "gasto_1759698624203_ldv8qqacv",
+      "categoriaId": "cat-farmacia-perfumeria-cosmetica",
+      "descripcion": "SIMPLICITY",
+      "monto": 8120.85,
+      "montoTotal": 48725.100000000006,
+      "fechaInicio": "2025-10",
+      "activo": true,
+      "esRecurrente": true,
+      "tipoRecurrencia": "MENSUAL",
+      "cuotasTotales": 6,
+      "cuotasRestantes": 1,
+      "esDebitoAutomatico": false,
+      "idTarjeta": "tarjeta-bna-visa",
+      "cuotaActual": 1,
+      "montoCuota": 8120.85,
+      "esUnico": false,
+      "esGastoFijo": false
+    },
+    {
+      "id": "gasto_1759698624203_ldv8qqacv2",
+      "categoriaId": "cat-ropa-calzado-accesorios",
+      "descripcion": "COMPRA ROPA",
+      "monto": 25000,
+      "montoTotal": 150000,
+      "fechaInicio": "2025-11",
+      "activo": true,
+      "esRecurrente": true,
+      "tipoRecurrencia": "MENSUAL",
+      "cuotasTotales": 6,
+      "cuotasRestantes": 6,
+      "esDebitoAutomatico": false,
+      "idTarjeta": "tarjeta-santafe-visa",
+      "cuotaActual": 1,
+      "montoCuota": 25000,
+      "esUnico": false,
+      "esGastoFijo": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "id": "tarjeta-bna-visa",
+      "nombre": "BNA VISA",
+      "ultimosCuatroDigitos": "4828",
+      "activa": true,
+      "banco": "BANCO NACIÓN",
+      "tipo": "VISA",
+      "limiteCredito": 2400000,
+      "saldoActual": 0,
+      "fechaVencimientoDia": 15,
+      "fechaVencimiento": 15,
+      "fechaCorte": 10,
+      "fechaCreacion": "2025-01-01",
+      "fechaActualizacion": "2025-10-02"
+    },
+    {
+      "id": "tarjeta-santafe-visa",
+      "nombre": "SANTA FE VISA",
+      "ultimosCuatroDigitos": "2370",
+      "activa": true,
+      "banco": "BANCO SANTA FE",
+      "tipo": "VISA",
+      "limiteCredito": 7200000,
+      "saldoActual": 0,
+      "fechaVencimientoDia": 20,
+      "fechaVencimiento": 20,
+      "fechaCorte": 15,
+      "fechaCreacion": "2025-01-01",
+      "fechaActualizacion": "2025-10-06",
+      "notas": ""
+    }
+  ],
+  "prestamos": [],
+  "resumenMensual": [],
+  "currentMonth": "2025-11"
+}
